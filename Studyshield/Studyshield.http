@@ -1,0 +1,6 @@
+@Studyshield_HostAddress = http://localhost:5014
+
+GET {{Studyshield_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
